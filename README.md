@@ -86,13 +86,13 @@ After cleaning, preparing and understanding the data found the following notes
 ![Sales Per Month](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg)
 9) January recorded the highest revenue, totaling $116,291.87 , while February recorded the lowest revenue, with a total of $97,219.37 .
 
-![Sales Per Day]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_day.jpg)
+![Sales Per Day](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_day.jpg)
 10) Revenue is at its peak on Saturdays, with a total of $56,120.81  recorded on Saturdays. Conversely, revenue is at its lowest on Mondays, with a total of $37,899.08 recorded.
 
-![Sales Per Time Of Day]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_by_time_of_day.jpg)
+![Sales Per Time Of Day](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_by_time_of_day.jpg)
 11) The peak period of the day is 7 PM, with a total revenue of $39,699.51 recorded. Conversely, the least period of the day is 8 PM, with a total of $22,969.53 recorded.
 
-![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_by_customer_type.jpg)
+![Gender Distribution](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_by_customer_type.jpg)
 12) Customers who are registered members generated the highest revenue, totaling $164,223.44 .
 
 ![Average Rating Per Customer Type](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/avg_rating_per_cutomer_type.jpg)
