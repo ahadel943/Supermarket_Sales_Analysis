@@ -60,6 +60,7 @@ After cleaning, preparing and understanding the data found the following notes
 
 ## Conclusions
 
+![Gender Distribution](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/gender_distribution.jpg)
 1) There is a slightly higher number of female shoppers compared to male shoppers.
 
 2) Female customers tend to dominate sales across various product lines, except for the Health and Beauty category.
