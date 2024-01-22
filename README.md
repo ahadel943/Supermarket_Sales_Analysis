@@ -63,34 +63,48 @@ After cleaning, preparing and understanding the data found the following notes
 ![Gender Distribution](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/gender_distribution.jpg)
 1) There is a slightly higher number of female shoppers compared to male shoppers.
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/gender_distribution.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/gender_distribution_per_product_line.jpg))
 2) Female customers tend to dominate sales across various product lines, except for the Health and Beauty category.
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/gender_distribution.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/total_sales_per_branch.jpg))
 3) Branch C stands out with the highest revenue generation of $110,568.71.
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/gender_distribution.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/customer_type_per_branch.jpg))
 4) Branch A and B have a higher number of regular customers making purchases, while Branch C has a larger number of members among its customer base.
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/gender_distribution.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/total_sales_per_product_line.jpg))
 5) The highest-performing product line is "Food and Beverages," which generated a total revenue of $56,144.84 and a gross income of $2,673.56, In contrast, the "Health and Beauty" product line is the lowest-performing, with a total revenue of $49,193.74 and a gross income of $2,342.56 .
 
 6) Based on the correlation coefficients, there are very weak and nearly negligible linear relationships between these variables(Unit price, Quantity and Rating). Changes in unit price or quantity purchased do not appear to be strongly associated with changes in customer ratings.
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/gender_distribution.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/customer_per_payment_methodjpg.jpg))
 7) The most preferred payment method by customers is the Ewallet payment method, with a total of 345 customers choosing this option.
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/gender_distribution.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/payment_method_per_branch.jpg))
 8) The Ewallet payment method was the most preferred in Branch A and B, with a total of 126 and 113 customers choosing this option, respectively, while the Cash payment method was preferred in Branch C, with a total of 124 customers choosing this option.
 
+![Gender Distribution](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg)
 9) January recorded the highest revenue, totaling $116,291.87 , while February recorded the lowest revenue, with a total of $97,219.37 .
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_day.jpg))
 10) Revenue is at its peak on Saturdays, with a total of $56,120.81  recorded on Saturdays. Conversely, revenue is at its lowest on Mondays, with a total of $37,899.08 recorded.
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_by_time_of_day.jpg))
 11) The peak period of the day is 7 PM, with a total revenue of $39,699.51 recorded. Conversely, the least period of the day is 8 PM, with a total of $22,969.53 recorded.
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_by_customer_type.jpg))
 12) Customers who are registered members generated the highest revenue, totaling $164,223.44 .
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/avg_rating_per_cutomer_type.jpg))
 13) Customers who are not registered members recorded the highest average rating, with a rating of 7.01.
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/quantities_sold_per_city.jpg))
 14) Yangon leads in terms of the quantity sold, with a total of 1859 units sold, while Mandalay recorded the lowest quantity ordered, with a total of 1820 units.
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/avg_rating_per_city.jpg))
 15) Yangon and Naypyitaw received higher customer ratings from customers, with an average rating of 7, while Mandalay recorded the lowest customer rating, with an average rating of 6.8.
 
+![Gender Distribution]([https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/sales_per_month.jpg](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/product_preference_per_city.jpg))
 16) In Mandalay, the most preferred product line is Sports and Travel (322 units sold), in Naypyitaw it is Food and Beverages (369 units  sold), and in Yangon it is Home and Lifestyle (371 units sold).
 
 ## Recommendations:
